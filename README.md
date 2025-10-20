@@ -1,1 +1,2 @@
 anjay
+puantek lo cok 
