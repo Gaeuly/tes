@@ -1,2 +1,2 @@
 anjay
-puantek lo cok 
+puantek l
