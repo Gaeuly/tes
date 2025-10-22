@@ -12,7 +12,7 @@ import DonateIcon from '../components/icons/DonateIcon';
 const servicesData = [
     {
         icon: Globe,
-        title: " Development",
+        title: "web Development",
         description: "Modern, fast, and responsive websites built from scratch to represent you or your business.",
         image: "/service.webp",
         priceUSD: 20,
